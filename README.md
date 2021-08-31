@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @will-data-science
+- I am a data scientist and work primarily with python, scala, R, and SQL.
