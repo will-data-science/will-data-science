@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @will-data-science
 - I am a data scientist and work primarily with python, scala, R, and SQL.
-- More content coming soon!
+- Working on adding more content to my sample_code repo!
